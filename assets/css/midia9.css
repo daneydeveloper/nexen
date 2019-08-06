@@ -1,0 +1,337 @@
+/*footer*/
+footer .footer-nav li a {
+    font-size: 18px;
+    text-decoration: underline;
+    color: #ffffff;
+    font-weight: bold;
+}
+footer {
+    margin-top: 90px;
+    padding: 40px 0;
+    background-color: #812991;
+    position: relative;
+    z-index: 2;
+}
+#colorwhite{
+    color: #ffffff;
+}
+/*Novas alteraÃ§Ãµes*/
+#teaser .reservation-form-shadow {
+    height: 440px;
+    background-color: #fff;
+    box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 7px 0 15px -4px rgba(0, 0, 0, 0.3), -7px 0 15px -4px rgba(0, 0, 0, 0.3);
+}
+#contact {
+    margin-top: 0px;
+    position: relative;
+    z-index: 2;
+}
+#contact h2 {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+#teaser {
+    height: 500px;
+}
+#textarea{
+    height: 75px!important;
+}
+}
+#contact .contact-box {
+    background-color: #ededed;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#teaser form .input-group textarea {
+    color: #812991;
+}
+/*end novas alteraÃ§Ãµes*/
+#contact .contact-box {
+    background-color: #ededed;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+#contact .contact-box-name {
+    font-size: 15px;
+    font-weight: bold;
+}
+#justificado{
+    text-align: justify;
+}
+.scrollup {
+    position: fixed;
+    z-index: 9999;
+    width: 44px;
+    height: 44px;
+    position: fixed;
+    bottom: 44px;
+    right: 64px;
+    -webkit-transition: all 250ms ease-in-out;
+    -moz-transition: all 250ms ease-in-out;
+    -o-transition: all 250ms ease-in-out;
+    transition: all 250ms ease-in-out;
+    display: none;
+    text-indent: -9999px;
+    background: url(../img/icon_top.png) no-repeat;
+}
+a {
+    color: #FE9900;
+}
+a:hover {
+    color: #ea9546;
+    text-decoration: none;
+}
+a:focus, a:hover {
+    color: #ef9f29;
+    text-decoration: none;
+}
+#pirelli{
+        padding-top: 70px;
+}
+#partners {
+    padding: 0px 0;
+    background-color: #f8f8f8;
+    position: relative;
+    z-index: 2;
+}
+#colorwhite{
+    color: #ffffff;
+}
+/*#paddingbottom{
+    padding-bottom: 40px !important;
+}*/
+#partners .underline {
+    background-color: #812991;
+}
+#parceros{
+        margin-left: 60%;
+}
+/*header*/
+header.large {
+    height: 85px;
+    box-shadow: none;
+}
+header.large .brand {
+    margin: 15px 0 0 0;
+    width: 100%;
+}
+header .navbar-default .navbar-nav > .active > a {
+    background-color: #fff;
+    border: 2px solid #812991;
+    color: #812991;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+header .navbar-default .navbar-nav > li > a:hover {
+    background-color: #fff;
+    border: 2px solid #fff;
+    color: #812991;
+    background-color: none;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #812991;
+    background-color: #ffffff;
+}
+/*header*/
+/*COR BANNER*/
+#teaser {
+    background-color: #812991;
+    background: linear-gradient(to bottom, #812991 0%, #812991 50%, #812991 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@mainColor', endColorstr='@mainColor', GradientType=0);
+}
+.arrow-down {
+    border-top: 37px solid #812991;
+}
+#teaser .subtitle {
+    color: #ffffff;
+}
+/*COR BANNER*/
+/*FORMULARIO*/
+#bold{
+    font-weight: bold;
+}
+#teaser form {
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-top: 1px;
+    padding-bottom: 34px;
+}
+#teaser form .input-group-addon {
+    border-radius: 0;
+    border: none;
+    background-color: #efe9e9;
+    font-weight: bold;
+    font-size: 16px;
+    color: #716d6e;
+    width: 40px;
+    text-align: left;
+}
+#teaser form .input-group-addon .glyphicon {
+    font-size: 17px;
+    margin: 0 0px 0 0px;
+}
+#teaser form .submit {
+    width: 100%;
+    background-color: #812991;
+    margin-top: 0px;
+}
+#teaser form .submit:hover {
+    background-color: #9e70a7;
+}
+#teaser form .input-group input {
+    color: #812991;
+}
+#fontlabel{
+    font-size: 17px;
+}
+/*FORMULARIO*/
+/*MAIN*/
+#services .service-box .service-icon {
+    background-color: #812991;
+}
+#services .underline {
+    background-color: #812991;
+}
+#newsletter {
+    background-color: #812991;
+}
+#vehicles .vehicle-nav li.active {
+    background-color: #81299152;
+    font-weight: bold;
+}
+#vehicles .vehicle-nav li.active span {
+    border-left-color: #81299152;
+}
+#vehicles .vehicle-price {
+    background-color: #812991b5;
+}
+#vehicles .reserve-button {
+    background-color: #812991;
+}
+#services .service-box {
+    background-color: #ededed;
+    margin-bottom: 30px;
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-top: 31px;
+    padding-bottom: 31px;
+}
+#services .service-box .service-title {
+    text-align: center;
+}
+#vehicles .reserve-button:hover {
+    background-color: #9e70a7;
+}
+#vehicles .vehicle-nav-control a:hover {
+    background-color: #9e70a7;
+    color: #fdfdfd;
+}
+#vehicles .vehicle-nav-row {
+    padding-right: 15px;
+}
+/*PRESTA ATENÃƒÆ’O LUCAS!!! TODAVIA UM DIA VÃƒÆ’O PEDIR PRA VOCÃƒÅ  ADICIONAR MAIS MODELOS,
+ Ãƒâ€° SÃƒâ€œ AUMENTAR O HEIGHT E ADICIONAR MAIS MODELOS PARA QUE APAREÃƒâ€¡A A BARRA CORRETAMENTE E
+  SE VOCÃƒÅ  ESTIVER PROCURANDO COMO ACRESCENTAR + MODELOS Ãƒâ€° SÃƒâ€œ VER NA PAGINA MODELOS.PHP */
+/* #vehicles #vehicle-nav-container {
+    height: 365px;
+}*/
+/*MAIN*/
+/*FORM EMAIL*/
+#newsletter .subtitle {
+    color: #ffffff;
+}
+#newsletter .newsletter-form .button {
+    background-color: #fff;
+    border-radius: 0;
+    border: 2px solid #812991;
+    margin-left: 1px;
+    font-size: 18px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #812991;
+    padding: 0 10px;
+    height: 37px;
+    line-height: 36px;
+    transition: 0.2s;
+}
+#newsletter .newsletter-form .button:hover {
+    background-color: #812991;
+    border: 2px solid #812991;
+    color: #fff;
+}
+/*FORM EMAIL*/
+/*MAPA*/
+#locations .map h2 {
+    color: #812991;
+    padding: 0 10px;
+    margin-bottom: 4px;
+}
+#locations .location-select {
+    background-color: #812991;
+    height: 93px;
+}
+.arrow-down-location {
+    width: 0;
+    height: 0;
+    border-left: 37px solid transparent;
+    border-right: 37px solid transparent;
+    border-top: 37px solid #812991;
+    margin: 0 auto;
+}
+/*MAPA*/
+/*FORMULARIO2*/
+#contact form .submit-message {
+    background-color: #812991;
+}
+#contact .contact-info .highlight {
+    color: #812991;
+}
+#contact .contact-box-border {
+    background-color: #812991;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#contact .contact-box .highlight {
+    color: #812991;
+}
+#contact .contact-box img {
+    border: 1px solid #812991;
+}
+#contact form .submit-message:hover {
+    background-color: #9e70a7;
+}
+/*FORMULARIO2*/
+/*@media (max-width: 1200px){
+   #teaser .reservation-form-shadow {
+    height: 515px;
+} 
+}*/
+/*@media (max-width: 992px){
+ #teaser {
+    height: 1150px;
+}   
+}*/
+@media (max-width: 992px){
+header .navbar-default .navbar-collapse {
+    border: 14px solid #812991b3;
+}    
+}
+/*nova alteraÃ§ao*/
+@media (max-width: 1200px){
+   #teaser .reservation-form-shadow {
+    height: 450px;
+} 
+}
+@media (max-width: 992px){
+ #teaser {
+    height: 1030px;
+}   
+}
+/*nova alteraÃ§ao*/
